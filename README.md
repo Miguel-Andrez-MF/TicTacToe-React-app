@@ -1,12 +1,64 @@
-# React + Vite
+<h1 align="center">Tic-Tac-Toe App 🎮</h1>
+<p align="center">
+	<b>Una aplicación web de Tres en Raya construida con React y Vite</b>
+</p>
+<p align="center">
+	<img src="https://img.shields.io/badge/React-18.0-blue?logo=react" />
+	<img src="https://img.shields.io/badge/Vite-7.1.1-purple?logo=vite" />
+	<img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript" />
+	<img src="https://img.shields.io/badge/CSS-Modern-blueviolet?logo=css3" />
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+	<a href="#características">Características</a> •
+	<a href="#tecnologías">Tecnologías</a> •
+	<a href="#instalación">Instalación</a> •
+	<a href="#vista-previa">Vista previa</a> •
+	<a href="#licencia">Licencia</a>
+</p>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 Descripción
 
-## Expanding the ESLint configuration
+Tic-Tac-Toe App es una aplicación web interactiva del clásico juego Tres en Raya. Permite a dos jugadores competir, detecta automáticamente al ganador o empate, muestra un modal de victoria y guarda el estado del juego en el navegador para que puedas continuar donde lo dejaste.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Características
+
+- Juego para dos personas
+- Detección automática de ganador o empate
+- Modal de victoria animado
+- Estado persistente con localStorage
+- Interfaz moderna y responsiva
+
+---
+
+## 🛠️ Tecnologías
+
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS
+
+---
+
+## ⚡ Instalación
+
+1. Clona el repositorio:
+	 ```bash
+	 git clone https://github.com/TU_USUARIO/tic-tac-toe-app.git
+	 cd tic-tac-toe-app
+	 ```
+2. Instala las dependencias:
+	 ```bash
+	 npm install
+	 ```
+3. Inicia la aplicación:
+	 ```bash
+	 npm run dev
+	 ```
+4. Abre tu navegador en [http://localhost:5173](http://localhost:5173) (o el puerto que indique la terminal).
+
+---
