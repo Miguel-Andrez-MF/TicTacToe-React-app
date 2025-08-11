@@ -12,7 +12,7 @@
 <p align="center">
 	<a href="#características">Características</a> •
 	<a href="#tecnologías">Tecnologías</a> •
-	<a href="#instalación">Instalación</a> •
+	<a href="#instalación">Instalación</a>
 </p>
 
 ---
