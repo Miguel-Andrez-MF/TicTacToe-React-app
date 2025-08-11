@@ -13,8 +13,6 @@
 	<a href="#características">Características</a> •
 	<a href="#tecnologías">Tecnologías</a> •
 	<a href="#instalación">Instalación</a> •
-	<a href="#vista-previa">Vista previa</a> •
-	<a href="#licencia">Licencia</a>
 </p>
 
 ---
